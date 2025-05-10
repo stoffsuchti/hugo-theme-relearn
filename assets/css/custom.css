@@ -1,8 +1,7 @@
-.img-links150 {
-    /* display: block; */
-    width: 150px;
+.float-left {
     float: left;
-    clear: both;
-    /* margin-right: auto; */
 }
 
+.clear {
+	clear: both;
+}
